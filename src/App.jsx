@@ -1,13 +1,14 @@
 
 import './App.css'
+import Daisynavbar from './Components/DaisyNavbar/Daisynavbar'
 
 function App() {
 
 
   return (
     <>
-      
-      <h1 className='bg-slate-500'>Vite + React</h1>
+      <Daisynavbar></Daisynavbar>
+      <h1 className='text-7xl bg-slate-500'>Vite + React</h1>
       
     </>
   )
