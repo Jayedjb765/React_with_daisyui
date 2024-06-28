@@ -1,0 +1,68 @@
+
+     [
+        {
+            "id": "001",
+            "name": "Downtown Fitness",
+            "features": [
+                "cardio equipment",
+                "weight machines",
+                "free weights",
+                "group classes",
+                "pool",
+                "sauna"
+            ],
+            "prc": 70
+        },
+        {
+            "id": "002",
+            "name": "Hollywood Gym",
+            "features": [
+                "cardio equipment",
+                "weight machines",
+                "free weights",
+                "group classes",
+                "pool"
+            ],
+            "prc": 55
+        },
+        {
+            "id": "003",
+            "name": "Lincoln Park Fitness",
+            "features": [
+                "cardio equipment",
+                "weight machines",
+                "free weights",
+                "group classes",
+                "pool",
+                "sauna",
+                "rock climbing wall"
+            ],
+            "prc": 65
+        },
+        {
+            "id": "004",
+            "name": "Brooklyn Gym",
+            "features": [
+                "cardio equipment",
+                "weight machines",
+                "free weights",
+                "group classes"
+            ],
+            "prc": 50
+        },
+        {
+            "id": "005",
+            "name": "Downtown Austin Fitness",
+            "features": [
+                "cardio equipment",
+                "weight machines",
+                "free weights",
+                "group classes",
+                "pool",
+                "yoga studio",
+                "crossfit area"
+            ],
+            "prc": 60
+        }
+    ]
+
