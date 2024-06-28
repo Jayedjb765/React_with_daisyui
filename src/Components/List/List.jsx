@@ -1,5 +1,5 @@
 
-
+import PropTypes from 'prop-types';
 const List = ({route}) => {
     const {name,path}= route;
     return (
@@ -11,5 +11,8 @@ const List = ({route}) => {
         </div>
     );
 };
+List.propTypes ={
+    route : PropTypes.object.isRequired  
+}
 
 export default List;
